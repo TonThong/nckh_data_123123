@@ -1,0 +1,36 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          229.24503326416016,
+          144.98271942138672
+        ]
+      ],
+      "group_id": null,
+      "description": "216.72,135.94,241.77,154.03",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          301.43048095703125,
+          129.48370361328125
+        ]
+      ],
+      "group_id": null,
+      "description": "276.21,118.70,326.65,140.27",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20251116_143346_022.jpg",
+  "imageData": null,
+  "imageHeight": 294,
+  "imageWidth": 518
+}

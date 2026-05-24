@@ -1,0 +1,514 @@
+{
+  "version": "6.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          87.2927131652832,
+          98.44671249389648
+        ]
+      ],
+      "group_id": null,
+      "description": "78.86,92.10,95.73,104.79",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          55.03647804260254,
+          104.0762825012207
+        ]
+      ],
+      "group_id": null,
+      "description": "46.34,97.42,63.73,110.73",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          446.6002502441406,
+          137.43311309814453
+        ]
+      ],
+      "group_id": null,
+      "description": "434.97,128.86,458.23,146.00",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          221.89865112304688,
+          127.34128952026367
+        ]
+      ],
+      "group_id": null,
+      "description": "211.22,119.49,232.57,135.19",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          345.61492919921875,
+          196.67767333984375
+        ]
+      ],
+      "group_id": null,
+      "description": "329.19,184.86,362.04,208.50",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          441.81556701660156,
+          99.5754280090332
+        ]
+      ],
+      "group_id": null,
+      "description": "433.33,93.23,450.30,105.93",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          343.71397399902344,
+          161.3103485107422
+        ]
+      ],
+      "group_id": null,
+      "description": "330.21,151.47,357.22,171.15",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          346.3280944824219,
+          241.03472137451172
+        ]
+      ],
+      "group_id": null,
+      "description": "326.34,226.86,366.32,255.21",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          384.8520050048828,
+          147.06341552734375
+        ]
+      ],
+      "group_id": null,
+      "description": "372.48,138.08,397.22,156.05",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          338.9884033203125,
+          83.49406051635742
+        ]
+      ],
+      "group_id": null,
+      "description": "321.41,76.12,356.56,90.87",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          407.0274658203125,
+          152.1504135131836
+        ]
+      ],
+      "group_id": null,
+      "description": "394.19,142.85,419.86,161.45",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          376.85057067871094,
+          118.58504867553711
+        ]
+      ],
+      "group_id": null,
+      "description": "353.82,108.60,399.88,128.57",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          393.67242431640625,
+          210.84750366210938
+        ]
+      ],
+      "group_id": null,
+      "description": "376.48,198.45,410.87,223.25",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          361.47608947753906,
+          145.4976348876953
+        ]
+      ],
+      "group_id": null,
+      "description": "349.23,136.54,373.73,154.45",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          405.5228729248047,
+          134.07656478881836
+        ]
+      ],
+      "group_id": null,
+      "description": "394.22,125.65,416.83,142.50",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          428.91737365722656,
+          174.5906524658203
+        ]
+      ],
+      "group_id": null,
+      "description": "414.71,164.34,443.13,184.84",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          241.1746368408203,
+          127.06689834594727
+        ]
+      ],
+      "group_id": null,
+      "description": "230.51,119.15,251.84,134.98",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          483.4130554199219,
+          105.64691162109375
+        ]
+      ],
+      "group_id": null,
+      "description": "474.42,98.93,492.41,112.36",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          287.9443359375,
+          111.25833511352539
+        ]
+      ],
+      "group_id": null,
+      "description": "278.50,104.22,297.39,118.29",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          392.07786560058594,
+          97.04508209228516
+        ]
+      ],
+      "group_id": null,
+      "description": "372.77,88.92,411.38,105.17",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          256.91839599609375,
+          122.74189376831055
+        ]
+      ],
+      "group_id": null,
+      "description": "246.55,115.10,267.29,130.38",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          293.1402130126953,
+          148.08153533935547
+        ]
+      ],
+      "group_id": null,
+      "description": "265.22,135.90,321.06,160.26",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          489.4349060058594,
+          123.29765701293945
+        ]
+      ],
+      "group_id": null,
+      "description": "465.58,113.00,513.29,133.60",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          45.080705642700195,
+          93.81062698364258
+        ]
+      ],
+      "group_id": null,
+      "description": "37.16,87.71,53.00,99.91",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          210.83135223388672,
+          243.47722625732422
+        ]
+      ],
+      "group_id": null,
+      "description": "167.56,223.94,254.10,263.01",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          222.6433868408203,
+          90.68471908569336
+        ]
+      ],
+      "group_id": null,
+      "description": "204.22,82.94,241.07,98.43",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          36.667991638183594,
+          116.93563842773438
+        ]
+      ],
+      "group_id": null,
+      "description": "27.05,109.72,46.29,124.15",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          363.6067199707031,
+          77.17086791992188
+        ]
+      ],
+      "group_id": null,
+      "description": "356.02,71.46,371.19,82.88",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          203.85436248779297,
+          98.2555923461914
+        ]
+      ],
+      "group_id": null,
+      "description": "184.59,90.09,223.12,106.42",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          426.7842102050781,
+          89.3602180480957
+        ]
+      ],
+      "group_id": null,
+      "description": "419.01,83.49,434.56,95.24",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          270.3743896484375,
+          115.71565246582031
+        ]
+      ],
+      "group_id": null,
+      "description": "260.67,108.49,280.08,122.94",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          33.168317794799805,
+          132.62793731689453
+        ]
+      ],
+      "group_id": null,
+      "description": "22.25,124.47,44.08,140.78",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          147.72058868408203,
+          78.10435485839844
+        ]
+      ],
+      "group_id": null,
+      "description": "140.26,72.38,155.18,83.83",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          278.223876953125,
+          115.94437789916992
+        ]
+      ],
+      "group_id": null,
+      "description": "268.48,108.63,287.97,123.26",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          243.36426116838487,
+          108.85567010309279
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          253.67353951890033,
+          102.6701030927835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "20251117_154251_078.jpg",
+  "imageData": null,
+  "imageHeight": 294,
+  "imageWidth": 518
+}

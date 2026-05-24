@@ -1,0 +1,36 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          245.18781280517578,
+          109.62112045288086
+        ]
+      ],
+      "group_id": null,
+      "description": "223.38,100.26,266.99,118.98",
+      "shape_type": "point",
+      "flags": {}
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          409.0167999267578,
+          183.76392364501953
+        ]
+      ],
+      "group_id": null,
+      "description": "368.45,163.23,449.58,204.30",
+      "shape_type": "point",
+      "flags": {}
+    }
+  ],
+  "imagePath": "20251117_153742_047.jpg",
+  "imageData": null,
+  "imageHeight": 294,
+  "imageWidth": 518
+}

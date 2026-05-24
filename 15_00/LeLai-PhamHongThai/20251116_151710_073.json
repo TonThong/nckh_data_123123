@@ -1,0 +1,66 @@
+{
+  "version": "6.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          300.92552185058594,
+          133.3707618713379
+        ]
+      ],
+      "group_id": null,
+      "description": "289.34,124.93,312.51,141.81",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          187.44734954833984,
+          129.89239883422852
+        ]
+      ],
+      "group_id": null,
+      "description": "176.35,121.65,198.54,138.14",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          123.41222763061523,
+          176.5720977783203
+        ]
+      ],
+      "group_id": null,
+      "description": "90.25,161.89,156.58,191.25",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "coach",
+      "points": [
+        [
+          136.49140893470792,
+          109.19931271477664
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "20251116_151710_073.jpg",
+  "imageData": null,
+  "imageHeight": 294,
+  "imageWidth": 518
+}
