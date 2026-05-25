@@ -1,0 +1,108 @@
+{
+  "version": "6.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          334.4637145996094,
+          171.76173400878906
+        ]
+      ],
+      "group_id": null,
+      "description": "302.41,157.65,366.52,185.87",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          165.29268646240234,
+          115.07219696044922
+        ]
+      ],
+      "group_id": null,
+      "description": "155.34,107.69,175.25,122.45",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          313.9159393310547,
+          115.43859100341797
+        ]
+      ],
+      "group_id": null,
+      "description": "304.12,108.12,323.71,122.76",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          279.7484436035156,
+          114.62316513061523
+        ]
+      ],
+      "group_id": null,
+      "description": "257.23,104.97,302.27,124.28",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          176.47157287597656,
+          106.27040481567383
+        ]
+      ],
+      "group_id": null,
+      "description": "167.24,99.34,185.71,113.20",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          297.9971618652344,
+          147.33844757080078
+        ]
+      ],
+      "group_id": null,
+      "description": "269.38,135.05,326.61,159.63",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "coach",
+      "points": [
+        [
+          387.6516853932584,
+          200.18352059925095
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "20251116_141416_072.jpg",
+  "imageData": null,
+  "imageHeight": 294,
+  "imageWidth": 518
+}

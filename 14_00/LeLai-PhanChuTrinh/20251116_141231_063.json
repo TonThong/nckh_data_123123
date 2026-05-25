@@ -1,0 +1,108 @@
+{
+  "version": "6.3.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          302.2260284423828,
+          113.88788604736328
+        ]
+      ],
+      "group_id": null,
+      "description": "281.09,104.94,323.37,122.84",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          270.17710876464844,
+          120.95352935791016
+        ]
+      ],
+      "group_id": null,
+      "description": "260.00,113.45,280.36,128.46",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          252.87791442871094,
+          106.5976791381836
+        ]
+      ],
+      "group_id": null,
+      "description": "232.52,97.76,273.23,115.44",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          241.7384033203125,
+          118.28459548950195
+        ]
+      ],
+      "group_id": null,
+      "description": "231.88,110.89,251.59,125.68",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          175.29213483146066,
+          191.56928838951313
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          223.6067415730337,
+          111.04494382022472
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          213.4943820224719,
+          112.54307116104869
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "20251116_141231_063.jpg",
+  "imageData": null,
+  "imageHeight": 294,
+  "imageWidth": 518
+}
