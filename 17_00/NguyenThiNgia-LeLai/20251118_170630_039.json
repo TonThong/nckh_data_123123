@@ -1,5 +1,5 @@
 {
-  "version": "5.11.3",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -470,6 +470,20 @@
         [
           197.07,
           97.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "motorbike",
+      "points": [
+        [
+          359.56179775280896,
+          150.37078651685394
         ]
       ],
       "group_id": null,

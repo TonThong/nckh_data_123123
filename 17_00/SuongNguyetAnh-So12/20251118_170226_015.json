@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -13,7 +13,8 @@
       "group_id": null,
       "description": "202.43,152.11,230.73,172.32",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -26,7 +27,8 @@
       "group_id": null,
       "description": "274.02,123.29,326.09,145.59",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -39,7 +41,22 @@
       "group_id": null,
       "description": "272.18,247.69,361.89,285.99",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          315.7415730337078,
+          199.05992509363298
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "20251118_170226_015.jpg",

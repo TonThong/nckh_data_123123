@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -13,7 +13,8 @@
       "group_id": null,
       "description": "229.85,258.72,271.71,288.16",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -26,7 +27,8 @@
       "group_id": null,
       "description": "282.10,144.01,342.97,170.60",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -39,7 +41,8 @@
       "group_id": null,
       "description": "257.09,90.02,297.37,107.75",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "coach",
@@ -52,7 +55,8 @@
       "group_id": null,
       "description": "114.98,178.81,235.31,214.53",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -65,7 +69,64 @@
       "group_id": null,
       "description": "253.83,76.67,269.74,88.59",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          324.3558052434457,
+          238.0112359550562
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          255.81647940074905,
+          134.26591760299627
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "truck",
+      "points": [
+        [
+          313.4943820224719,
+          123.0299625468165
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          283.1573033707865,
+          82.20599250936331
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "20251118_170154_012.jpg",

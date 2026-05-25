@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -13,7 +13,8 @@
       "group_id": null,
       "description": "274.14,124.13,326.75,146.78",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -26,7 +27,22 @@
       "group_id": null,
       "description": "272.88,246.97,362.98,285.91",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          313.1198501872659,
+          197.93632958801498
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "20251118_170113_008.jpg",

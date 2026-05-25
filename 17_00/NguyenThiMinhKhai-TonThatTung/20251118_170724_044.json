@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -13,7 +13,8 @@
       "group_id": null,
       "description": "329.42,191.28,363.60,215.48",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -26,7 +27,8 @@
       "group_id": null,
       "description": "380.72,210.63,418.13,237.12",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -39,7 +41,8 @@
       "group_id": null,
       "description": "336.19,122.88,358.92,139.55",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -52,7 +55,8 @@
       "group_id": null,
       "description": "291.60,187.79,325.44,211.76",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -65,7 +69,8 @@
       "group_id": null,
       "description": "352.14,204.71,388.95,230.82",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -78,7 +83,8 @@
       "group_id": null,
       "description": "418.79,137.35,444.27,155.90",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -91,7 +97,8 @@
       "group_id": null,
       "description": "117.63,197.99,151.62,222.21",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -104,7 +111,8 @@
       "group_id": null,
       "description": "173.46,164.90,203.46,186.28",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -117,7 +125,8 @@
       "group_id": null,
       "description": "411.03,119.18,433.04,135.49",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -130,7 +139,8 @@
       "group_id": null,
       "description": "282.06,115.84,331.15,137.16",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -143,7 +153,8 @@
       "group_id": null,
       "description": "271.33,99.83,289.70,113.56",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -156,7 +167,8 @@
       "group_id": null,
       "description": "362.78,158.74,392.06,179.89",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -169,7 +181,8 @@
       "group_id": null,
       "description": "308.27,139.88,367.84,165.90",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -182,7 +195,8 @@
       "group_id": null,
       "description": "133.32,219.31,173.29,247.29",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "coach",
@@ -195,7 +209,8 @@
       "group_id": null,
       "description": "276.85,85.69,341.13,105.17",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -208,7 +223,8 @@
       "group_id": null,
       "description": "206.42,253.03,296.22,293.41",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -221,7 +237,8 @@
       "group_id": null,
       "description": "195.91,171.56,227.16,193.69",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -234,7 +251,8 @@
       "group_id": null,
       "description": "396.77,254.63,486.45,292.86",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -247,7 +265,8 @@
       "group_id": null,
       "description": "420.21,107.12,439.94,121.77",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "coach",
@@ -260,7 +279,8 @@
       "group_id": null,
       "description": "376.46,84.48,439.54,103.59",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -273,7 +293,8 @@
       "group_id": null,
       "description": "432.58,111.23,453.08,126.37",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -286,7 +307,8 @@
       "group_id": null,
       "description": "345.26,108.82,365.57,123.70",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -299,20 +321,8 @@
       "group_id": null,
       "description": "338.09,89.18,355.21,101.84",
       "shape_type": "point",
-      "flags": {}
-    },
-    {
-      "label": "motorbike",
-      "points": [
-        [
-          403.7723388671875,
-          140.6223907470703
-        ]
-      ],
-      "group_id": null,
-      "description": "391.50,131.67,416.05,149.57",
-      "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -325,7 +335,22 @@
       "group_id": null,
       "description": "364.45,104.82,383.77,118.98",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          364.80524344569284,
+          102.8052434456929
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "20251118_170724_044.jpg",

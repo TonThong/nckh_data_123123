@@ -1,5 +1,5 @@
 {
-  "version": "5.11.3",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -372,6 +372,20 @@
         [
           236.56,
           98.45
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "car",
+      "points": [
+        [
+          244.95505617977528,
+          125.65168539325845
         ]
       ],
       "group_id": null,

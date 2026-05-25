@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -13,7 +13,8 @@
       "group_id": null,
       "description": "272.34,123.10,325.26,145.98",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -26,7 +27,8 @@
       "group_id": null,
       "description": "371.35,226.75,411.32,255.41",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -39,7 +41,8 @@
       "group_id": null,
       "description": "227.93,136.80,285.07,161.72",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "coach",
@@ -52,7 +55,8 @@
       "group_id": null,
       "description": "295.46,130.90,383.96,157.35",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "motorbike",
@@ -65,7 +69,8 @@
       "group_id": null,
       "description": "257.63,130.94,281.39,148.30",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -78,7 +83,8 @@
       "group_id": null,
       "description": "247.30,165.84,316.28,195.71",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -91,7 +97,8 @@
       "group_id": null,
       "description": "242.36,99.00,284.87,116.84",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
       "label": "car",
@@ -104,20 +111,22 @@
       "group_id": null,
       "description": "270.41,250.79,358.51,292.03",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
-      "label": "car",
+      "label": "coach",
       "points": [
         [
-          356.92662048339844,
-          264.4558639526367
+          449.82397003745314,
+          223.40449438202248
         ]
       ],
       "group_id": null,
-      "description": "309.44,243.78,404.41,285.13",
+      "description": "",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "20251118_170803_048.jpg",

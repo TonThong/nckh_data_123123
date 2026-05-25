@@ -1,5 +1,5 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
   "shapes": [
     {
@@ -13,20 +13,22 @@
       "group_id": null,
       "description": "461.84,236.35,565.83,281.71",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     },
     {
-      "label": "car",
+      "label": "motorbike",
       "points": [
         [
-          515.7035980224609,
-          256.84898376464844
+          429.6081871345029,
+          178.87719298245614
         ]
       ],
       "group_id": null,
-      "description": "464.30,233.96,567.11,279.74",
+      "description": "",
       "shape_type": "point",
-      "flags": {}
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "20251118_170804_048.jpg",

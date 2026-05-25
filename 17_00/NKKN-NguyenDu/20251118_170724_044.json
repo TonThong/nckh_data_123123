@@ -1,7 +1,22 @@
 {
-  "version": "5.10.1",
+  "version": "6.3.0",
   "flags": {},
-  "shapes": [],
+  "shapes": [
+    {
+      "label": "car",
+      "points": [
+        [
+          298.1385767790262,
+          82.58052434456928
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "point",
+      "flags": {},
+      "mask": null
+    }
+  ],
   "imagePath": "20251118_170724_044.jpg",
   "imageData": null,
   "imageHeight": 294,
